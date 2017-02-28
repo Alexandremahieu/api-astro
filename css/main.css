@@ -1,0 +1,11 @@
+body {
+  margin-top: 25px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.users {
+  width: auto;
+  text-align: center;
+  border: solid 2px black;
+}
